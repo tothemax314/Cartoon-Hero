@@ -1,0 +1,63 @@
+/* DONT FORGET PX AND # */
+body{
+	margin: 0;
+}
+header{
+	margin: 0 auto;
+	max-width: 1000px;
+	background-color: 
+	#790000;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 100px;
+	max-height: 300px
+}
+
+header h1{
+	text-align: center;
+	font-family: 'Dela Gothic One', cursive;
+	font-size: 50px;
+	color: White;
+
+}
+
+header h2 img{
+	border-radius: 150px;
+	width:200px;
+	border: 8px solid white;
+}
+	
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 20px
+}
+main img{
+	max-width: 100%;
+}
+main h2{
+	font-family: 'Dela Gothic One', cursive;
+	margin: 40px 0 20px 
+
+}
+p{
+	font-size: 20px;
+}
+li{
+	font-size: 20px;
+}
+a{
+	color:#790000;
+}
+a:hover{
+	color:white;
+	background-color: #790000;
+}
+p.caption{
+	color: #999999;
+	font-size: 16px;
+	font-style: italic;
+}
+footer p{
+	font-size: 5px;
+}
